@@ -1,0 +1,4 @@
+Keras==2.2.4
+scipy==1.1.0
+gensim==3.7.1
+numpy==1.15.4
